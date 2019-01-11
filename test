@@ -1,0 +1,1 @@
+sudo ./inject -n Gattic sample-library.so
